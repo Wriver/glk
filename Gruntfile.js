@@ -4,7 +4,7 @@ module.exports = function (grunt) {
     grunt.initConfig({
 
         jshint: {
-            files: ['Gruntfile.js', 'src/**/*.js', 'test/**/*.js'],
+            files: ['Gruntfile.js', 'src/**/*.js', 'spec/**/*.js'],
             options: {
                 globals: {
                     jQuery: true
@@ -35,7 +35,7 @@ module.exports = function (grunt) {
             },
             options: {
                 browserifyOptions: {
-                    debug: true
+                    debug: false
                 }
             }
         }

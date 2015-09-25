@@ -21,7 +21,7 @@ describe("App name space", function () {
 describe("glk.util Functions", function () {
     it("Manual test required", function () {
         expect(false).toBe(true);
-    })
+    });
 });
 
 describe("Models", function () {
@@ -50,8 +50,8 @@ describe("Models", function () {
 
         beforeEach( function(){
             game = new glk.model.Game();
-            aModel = new glk.model.Cell()
-        })
+            aModel = new glk.model.Cell();
+        });
         it( "pick a model", function(){
             var picked = game.drawer.length;
             game.pick( aModel );

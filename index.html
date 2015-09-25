@@ -4,25 +4,38 @@
     <meta charset="UTF-8">
     <title>Good Luck</title>
     <style>
-        canvas {
-            border: 1px solid #000000;
-            padding: 10px;
-            margin-left: 10px;
+        #game_board {
+            padding: 8px;
+            display: inline-block;
+            background: #FFFFDE;
         }
         h1 {
             font-size: 26px;
-            margin: 15px 10px 15px 5px;
             border-bottom: 5px solid goldenrod;
+        }
+        #control{
+            margin-bottom: 8px;
+        }
+        button {
+            float: right;
         }
     </style>
 </head>
 <body>
-<h1>
-    Lotto Max Number Picker
-</h1>
-<canvas id="glk-canvas" width="500" height="500">
-    This browser doesn't support Canvas
-</canvas>
+
+<div id="game_board">
+    <h1>Lotto Max/649 Number picker</h1>
+    <div id="control">
+        <select id="which_game">
+            <option value="ca649">Canada Lotto 649</option>
+            <option value="camax" selected>Canada Lotto Max</option>
+        </select>
+        <button type="button" id="reset">Reset</button>
+    </div>
+    <canvas id="glk-canvas" width="600" height="600">
+        This browser doesn't support Canvas
+    </canvas>
+</div>
 <script src="build/release/main.js" type="text/javascript"></script>
 </body>
 </html>
