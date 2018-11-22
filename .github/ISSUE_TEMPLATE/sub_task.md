@@ -1,8 +1,4 @@
-
 ---
-name: Sub task
-about: Describe this issue template's purpose here.
-
+name: Bug reportone
+about: Create a report to help us improve
 ---
-
-- Item 1
