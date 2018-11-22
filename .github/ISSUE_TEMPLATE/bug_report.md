@@ -17,7 +17,7 @@ about: Create a report to help us improve
 * QA Server
 
 **Additional Context**
-(please change if the problem occurs has different context )
+(please change if the problem has different context )
 * Not regression issue
 * Not intermittent
 
