@@ -5,16 +5,16 @@ about: Suggest an idea for this project
 ---
 
 **Completion Criteria**
-- [ ] this is an incomplete item
+- Item 1
 
 **Development Tasks**
-- [ ] this is an incomplete item
+- Item 1
 
 **Client Impact**
-- [ ] this is an incomplete item
+- Item 1
 
 **Post-Deployment Steps**
-- [ ] this is an incomplete item
+- Item 1
 
 **Test Steps**
-- [ ] this is an incomplete item
+- Item 1
