@@ -11,9 +11,9 @@ about: Create a report to help us improve
 **Actual Result:**
 
 **Environment:**
-(please change if the problem occurs in different environment )
+(change the default if the problem occurs in different environment )
 * Any supported browser
-* Windows 7 
+* Windows 7 / 10
 * QA Server
 
 **Additional Context:**
