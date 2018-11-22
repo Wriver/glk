@@ -5,10 +5,6 @@ about: Create a report to help us improve
 ---
 
 **To Reproduce**
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
 **Expected Result**
 
@@ -21,7 +17,7 @@ about: Create a report to help us improve
 * QA Server
 
 **Additional Context**
-(please change if the problem occurs in different environment )
+(please change if the problem occurs has different context )
 * Not regression issue
 * Not intermittent
 
