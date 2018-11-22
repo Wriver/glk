@@ -11,15 +11,9 @@ about: Create a report to help us improve
 4. See error
 
 **Expected result**
-A clear and concise description of what you expected to happen.
 
 **Actual result**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
 **Environment**
 
 **Additional context**
-Add any other context about the problem here.
