@@ -10,10 +10,19 @@ about: Create a report to help us improve
 3. Scroll down to '....'
 4. See error
 
-**Expected result**
+**Expected Result**
 
-**Actual result**
+**Actual Result**
 
 **Environment**
+(please change if the problem occurs in different environment )
+* Any supported browser
+* Windows 7 
+* QA Server
 
-**Additional context**
+**Additional Context**
+(please change if the problem occurs in different environment )
+* Not regression issue
+* Not intermittent
+
+**Related Issues**
