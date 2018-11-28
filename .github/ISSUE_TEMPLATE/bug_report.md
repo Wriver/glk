@@ -4,7 +4,7 @@ about: Create a report to help us improve
 
 ---
 
-## Steps To Reproduce:
+## Test Steps:
 - [x] Step 1
 - [ ] Step 2
 
@@ -22,8 +22,8 @@ about: Create a report to help us improve
 
 ## Issue Context:
 (please change if the problem has different context )
-* Not a regression issue
-* Not intermittent
-* Not an integration issue
+- [ ] Regression issue
+- [ ] Intermittent 
+- [ ] Integration issue
 
 ## Related Issues:
